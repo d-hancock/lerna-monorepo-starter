@@ -1,0 +1,7 @@
+0 silly argv { _: [ 'clean' ], lernaVersion: '4.0.0', '$0': 'lerna' }
+1 notice cli v4.0.0
+2 verbose rootPath /home/dale/Development/lerna-mono-test/lerna-monorepo-starter
+3 error JSONError: Unexpected end of JSON input while parsing empty string in packages/shop/package.json
+3 error     at parseJson (/home/dale/.nvm/versions/node/v14.17.0/lib/node_modules/lerna/node_modules/parse-json/index.js:29:21)
+3 error     at parse (/home/dale/.nvm/versions/node/v14.17.0/lib/node_modules/lerna/node_modules/load-json-file/index.js:15:9)
+3 error     at module.exports (/home/dale/.nvm/versions/node/v14.17.0/lib/node_modules/lerna/node_modules/load-json-file/index.js:18:47)
